@@ -12,13 +12,17 @@ divider.js
 ## 実行方法
 photo divider.html を開く。  
 ## 実行結果
-図1 入力画像
-今回はこの画像を使用する。
-図2 起動直後
+![スクリーンショット](https://raw.githubusercontent.com/t-hayashi00/photoDivider/master/image1.png )  
+図1 入力画像  
+今回はこの画像を使用する。  
+![スクリーンショット](https://raw.githubusercontent.com/t-hayashi00/photoDivider/master/image2.png )  
+図2 起動直後  
 photo divider.html を開くとブラウザ上に上記のようなページが表示される。  
-図3 画像選択後
+![スクリーンショット](https://raw.githubusercontent.com/t-hayashi00/photoDivider/master/image3.png )  
+図3 画像選択後  
 画像を選択後、数値を入力して分割数を決定する。  
-図4 分割処理後
+![スクリーンショット](https://raw.githubusercontent.com/t-hayashi00/photoDivider/master/image4.png )  
+図4 分割処理後  
 確かに、画像が指定数分割されていることが分かる。  
 ## プログラム操作説明
 1. 分割したい画像を参照ボタンから選択します。  
