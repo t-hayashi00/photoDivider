@@ -39,3 +39,10 @@ divider.js から成る。HTML 内のボタンがdivider.js に実装された�
 divider.js のDivide メソッドが画像の分割作業の本体を担う。このメソッドは、入力画像と分割数をHTML
 のタグから取得し、分割数に応じてHTML にimage タグを追加し、そこに元画像を分割した画像ファイルを
 生成して書き込んでいく。
+## 所感
+javascript とHTML5 を利用したDL やインストールといった手順を必要としないアプリケーションやサー
+ビスはユーザーが利用するための敷居を大きく下げることに一役買ってくれるはずなので、今後も追求してい
+きたい。
+## 参考URL
+javascript で画像処理してみよう(1)～OpenCVjs～  
+”http://ameblo.jp/sakiyamak/entry-11382031239.html”
